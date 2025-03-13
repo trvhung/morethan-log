@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Gamehot Vercel`,
-      href: "https://github.com/trvhung/morethan-log",
+      href: "https://github.com/gamehotnet",
     },
   ],
   // blog setting (required)
