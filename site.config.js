@@ -1,30 +1,30 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    name: "Gamehot",
+    image: "/gamehot.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Boost Your Server with GameHot Today",
+    bio: "Hey bro, let’s cut the fluff—running a server is HARD. You’re out here juggling mod roles, hyping events, and begging your IRL friends to join… only to hear crickets. 🦗 Meanwhile, your “community” feels deader than a loot box with socks inside. Real talk: It’s not your fault. Building a lit server takes more than passion—it takes stupid-easy tools and a squad that’s actually down to game.",
+    email: "noreply@gamehot.net",
+    linkedin: "https://www.linkedin.com/company/gamehotnet",
+    github: "gamehotnet",
+    instagram: "gamehot_net",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Gamehot Vercel`,
+      href: "https://github.com/trvhung/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Boost Your Server with GameHot Today",
+    description: "We’re not just another “discord server list” full of bots and fake hype. Nah. Think of us like your cheat code for turning that empty lobby into a chaotic, hype-fueled party. 🎮💥",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://gamehot.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
